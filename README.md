@@ -1,5 +1,5 @@
 #Description
-When click the "Get All User" button, the list show all the users name and a searchbar will show.
+When click the "Get All User" button, the list show all the users name.
 
 When you input something in the searchbar ,and then the list will filter the users.
 
